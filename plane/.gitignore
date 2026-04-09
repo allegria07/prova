@@ -1,0 +1,58 @@
+# 🔴 FILE COMPILATI
+.class
+
+# 🔴 LOG
+.log
+
+# 🔴 FILE TEMPORANEI
+.tmp
+.swp
+.bak
+
+# 🔴 ARCHIVI
+.jar
+.war
+.ear
+
+# 🔴 ERRORI JVM
+hs_err_pid
+replay_pid
+
+# 🔴 IDE - IntelliJ
+.idea
+.iml
+
+# 🔴 IDE - Eclipse
+.project
+.classpath
+.settings
+
+# 🔴 IDE - VS Code
+.vscode
+
+# 🔴 BUILD TOOL
+
+# Maven
+target
+
+# Gradle
+.gradle
+build
+
+# 🔴 CACHE
+.cache
+
+# 🔴 FILE SISTEMA
+.DS_Store
+Thumbs.db
+
+# 🔴 ENV  CONFIG LOCALI
+.env
+.env
+
+# 🔴 DATABASE LOCALI
+.db
+.sqlite
+
+# 🔴 TEST  COVERAGE
+coverage
